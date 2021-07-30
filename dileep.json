@@ -1,0 +1,65 @@
+{
+	"basics": {
+		"name": "Vemula Dileep",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/76506645?s=400&u=fb4fd296109ae50a426a2c4ec9060a4&v=4",
+		"email": "2020kucp1072@iiitkota.ac.in",
+		"phone": "9440858448",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.I am very interested in learning new things . I play games very much. I am interested in learning coding ",
+		"location": {
+			"address": "RTC colony ,near RTC Depot",
+			"postalCode": "524132",
+			"city": "Venkatagiri",
+			"countryCode": "India",
+			"region": "Andhra Pradesh"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "VEMULADILEEP1",
+				"url": "https://www.twitter.com/VEMULADILEEP1/"
+			},
+			{
+				"network": "Github",
+				"username": "2020kucp1072",
+				"url": "https://www.github.com/2020kucp1072/"
+			},
+			{
+				"network": "linkedin",
+				"username": "vemula-dileep-69535b201",
+				"url": "https://www.linkedin.com/in/vemula-dileep-69535b201/"
+			},
+			{
+				"network": "Instagram",
+				"username": "vemuladileep082002",
+				"url": "https://instagram.com/vemuladileep082002/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2018-02-12 ",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+	}],
+	"interests": [
+        {
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton","Volley Ball","Kabaddi"]
+	},
+    {
+        
+            "name": "Dance",
+            "keywords": ["Modern Dance"]
+    }
+],
+	"references": []
+}
